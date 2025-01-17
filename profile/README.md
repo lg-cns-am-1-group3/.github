@@ -1,4 +1,4 @@
-# LG CNS AM CAMP 1기 - JAVA 프로젝트 (3조)
+# LG CNS AM CAMP 1기 (3조)
 
 ### 기간:
 2024.12.20 ~ 2025.06.26 (120 days)
