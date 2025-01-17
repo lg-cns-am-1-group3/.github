@@ -1,12 +1,21 @@
-## Hi there 👋
+# LG CNS AM CAMP 1기 - JAVA 프로젝트 (3조)
 
-<!--
+### 기간:
+2024.12.20 ~ 2025.06.26 (120 days)
 
-**Here are some ideas to get you started:**
+---
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 참여자 목록
+- **신예빈** 
+- **심수연** 
+- **양한진** 
+- **오태양** 
+- **오형서** 
+- **유승희** 
+- **유영서** 
+- **윤다인** 
+- **이다빈** 
+- **이상훈** 
+- **현민영** 
+
+---
